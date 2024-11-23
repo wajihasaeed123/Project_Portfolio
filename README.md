@@ -22,8 +22,8 @@ A robust automotive diagnostic application sold on Fiverr and available on the G
 - **Vehicle Data Integration**: TSMaster software for decoding and script generation
 
 **Resources:**
-- [GitHub Repository](#)
-- [Video Demonstration](#)
+- [GitHub Repository](https://github.com/wajihasaeed123/Project_Portfolio)
+- [Video Demonstration](https://youtube.com/shorts/qxUiZfxbqU8?feature=share)
 - [TSMaster Guide PDF](https://drive.google.com/file/d/1uHyL2BsP6b5XNpj4ie1oiwm29PcbYd8j/view?usp=sharing)
 
 ---
@@ -43,8 +43,8 @@ A cross-platform automotive diagnostic application sold on Fiverr specifically d
 - **Tools**: Android Studio, TSMaster software
 
 **Resources:**
-- [GitHub Repository](#)
-- [Video Demonstration](#)
+- [GitHub Repository](https://github.com/wajihasaeed123/Project_Portfolio)
+- [Video Demonstration](https://youtu.be/uT3ZftO2v6Y)
 - [TSMaster Guide PDF](https://drive.google.com/file/d/1uHyL2BsP6b5XNpj4ie1oiwm29PcbYd8j/view?usp=sharing)
 
 
@@ -64,8 +64,8 @@ An elegant e-commerce platform for selling high-quality towels, designed with Wo
 - **Tools**: WordPress, WooCommerce, Chrome DevTools
 
 **Resources:**
-- [GitHub Repository](#)
-- [Video Demonstration](#)
+- [GitHub Repository](https://github.com/wajihasaeed123/Project_Portfolio)
+- [Video Demonstration](https://youtube.com/shorts/FD3TmYHzQJ0)
 - [Live Website](https://fineterrytowels.com)
 
 ---
