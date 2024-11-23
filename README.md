@@ -1,79 +1,63 @@
-# 🚗 Automotive Diagnostics Apps Portfolio  
+My Project Portfolio
+Welcome to my portfolio repository! Here, you will find a comprehensive overview of the projects I have worked on, showcasing my skills in software development, mobile applications, and e-commerce platforms.
 
-Welcome to my project showcase! I specialize in developing cutting-edge vehicle diagnostics applications, leveraging advanced technologies like Bluetooth communication and ISO CAN protocols. Below are three standout projects that demonstrate my expertise.  
+Projects
+1. iFix: Automotive Diagnostic Android Application
+A robust automotive diagnostic application available on the Google Play Store. iFix connects to vehicles via Bluetooth using an ELM327 scanner and supports ISO CAN (Controller Area Network) protocols, providing users with real-time insights and diagnostic capabilities.
 
----
+Key Features:
 
-## 📱 iFix - Advanced Vehicle Diagnostics App  
-iFix is a powerful Android application designed to simplify vehicle diagnostics and performance monitoring.  
+Bluetooth Connectivity: Connects seamlessly with cars using ELM327 scanners.
+ISO CAN Protocol Support: Compatible with 11-bit 500 baud and 29-bit 500 baud protocols.
+Diagnostics: Reads and diagnoses trouble codes and freeze frame data.
+Real-Time Data: Monitors vehicle performance with alerts.
+Custom Gauge: Displays RPM in real-time using Android's native graphics libraries like Canvas Paint.
+AI-Powered Insights: Integrated ChatGPT (OpenAI's GPT-4 API) for detailed DTC explanations.
+Mongolian User Security: SMS OTP verification via Firebase, allowing 8-digit Mongolian phone numbers.
+Technologies Used:
+Languages: Java, XML
+Tools: Android Studio, Firebase
+Vehicle Data Integration: TSMaster software for decoding and script generation
+Resources:
+GitHub Repository
+Video Demonstration
+2. ProMasters Only: Diagnostic App for Dodge ProMaster Vans
+A cross-platform automotive diagnostic application specifically designed for ProMaster vans, developed using Flutter for Android and iOS platforms.
 
-**🔑 Key Features:**  
-- Access live vehicle data via Bluetooth communication.  
-- Diagnose trouble codes (DTCs) and analyze freeze frame data.  
-- Implements ISO CAN protocols for ECU communication.  
+Key Features:
+Bluetooth Connectivity: Compatible with ProMaster Dodge vans via ELM327 scanners.
+Protocol Support: Supports ISO CAN protocols (11-bit 500 baud, 29-bit 500 baud).
+Diagnostics: Reads trouble codes and real-time performance data with alerts.
+Custom Gauges: Displays RPM, Coolant Temperature, and other diagnostics using flutter_gauge library.
+Vendor-Specific Data: Custom PIDs and data decoding tailored for ProMaster vans using TSMaster software.
+Technologies Used:
+Languages: Dart, Flutter
+Tools: Android Studio, TSMaster software
+Resources:
+GitHub Repository
+Video Demonstration
+3. FineTerryTowels: E-Commerce Website for Premium Towels
+An elegant e-commerce platform for selling high-quality towels, designed with WordPress and WooCommerce.
 
-**⚙️ Built Using:**  
-- **Language:** Java, XML  
-- **Tools:** Android Studio  
+Key Features:
+Responsive Design: Optimized for mobile, tablet, and desktop.
+E-Commerce Functionality: Integrated WooCommerce for seamless shopping and checkout experiences.
+Custom Design: Enhanced with Elementor and custom CSS modifications.
+Payment Options: Supports COD and bank payments.
+Technologies Used:
+Languages: HTML, CSS, PHP
+Tools: WordPress, WooCommerce, Chrome DevTools
+Resources:
+GitHub Repository
+Video Demonstration
+Live Website
+Tools & Software
+Here are the tools and software I’ve worked with throughout my projects:
 
-**🌟 Achievements:**  
-- Successfully sold to a client on Fiverr.  
-- Available on the Play Store.  
-- Highlights expertise in Bluetooth communication and CAN bus decoding.  
-
-[🎥 Watch the Demo](YouTube [Link](https://youtu.be/uT3ZftO2v6Y))  
-
----
-
-## 🚀 ProMaster - Advanced Vehicle Diagnostics App  
-ProMaster is a Flutter-based diagnostics app specifically designed for ProMaster vans, offering precise, real-time data insights.  
-
-**🔑 Key Features:**  
-- Seamless Bluetooth communication for vehicle connection.  
-- Implements ISO CAN protocols to retrieve and decode live data.  
-- Diagnose trouble codes (DTCs) with detailed analysis.  
-- Features advanced functionality similar to iFix, tailored for ProMaster vehicles.  
-
-**⚙️ Built Using:**  
-- **Language:** Dart  
-- **Framework:** Flutter  
-- **Tools:** Android Studio 
-
-**🌟 Achievements:**  
-- Successfully sold to a client on Fiverr.  
-- Demonstrates expertise in Flutter development, Bluetooth communication, and ISO CAN protocols.  
-
-[🎥 Watch the Demo](YouTube Link)  
-
----
-
-## 🌐 FineTerryTowels.com - E-Commerce Website  
-FineTerryTowels.com is an e-commerce website I developed using WordPress, PHP, and Elementor, offering premium quality towels and related products.  
-
-**🔑 Key Features:**  
-- Built on WordPress with a fully responsive design for seamless navigation.  
-- Integrated with WooCommerce for secure, user-friendly online shopping.  
-- Customized using Elementor for intuitive page building and a tailored design.  
-- Enhanced with PHP for custom functionalities and optimized performance.  
-
-**🌟 Achievements:**  
-- Live website with active user traffic and sales.  
-- Demonstrates expertise in WordPress, PHP, and e-commerce website development.  
-- Successfully launched and continuously optimized for better user experience.  
-
-[🌐 Visit the Website](https://www.fineTerryTowels.com)  
-
----
-
-## 🛠 Technical Skills  
-- **Languages:** Java, Dart, XML, PHP  
-- **Frameworks:** Flutter, WordPress  
-- **Tools:** WordPress, WooCommerce, Elementor  
-
----
-
-## 📫 Get in Touch  
-- **Email:** wajihasaeed333@gmail.com  
-- **LinkedIn:** [Your LinkedIn Profile]  
-- **GitHub:** https://github.com/wajihasaeed
-
+Development Tools: Android Studio, Xcode, VS Code, Sublime Text
+Frameworks: Flutter, WordPress
+Graphics: Adobe Illustrator, Photoshop
+Database Management: Firebase, SQLite, MySQL
+API Testing: Postman
+Version Control: GitHub
+E-Commerce: WooCommerce
