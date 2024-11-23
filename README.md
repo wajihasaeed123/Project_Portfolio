@@ -24,6 +24,7 @@ A robust automotive diagnostic application available on the Google Play Store. i
 **Resources:**
 - [GitHub Repository](#)
 - [Video Demonstration](#)
+- [TSMaster Guide PDF](https://drive.google.com/file/d/1uHyL2BsP6b5XNpj4ie1oiwm29PcbYd8j/view?usp=sharing)
 
 ---
 
@@ -44,6 +45,8 @@ A cross-platform automotive diagnostic application specifically designed for Pro
 **Resources:**
 - [GitHub Repository](#)
 - [Video Demonstration](#)
+- [TSMaster Guide PDF](https://drive.google.com/file/d/1uHyL2BsP6b5XNpj4ie1oiwm29PcbYd8j/view?usp=sharing)
+
 
 ---
 
@@ -75,7 +78,6 @@ Here are the tools and software I’ve worked with throughout my projects:
 - Android Studio
 - Xcode
 - VS Code
-- Sublime Text
 
 **Frameworks:**
 - Flutter
@@ -83,7 +85,6 @@ Here are the tools and software I’ve worked with throughout my projects:
 
 **Graphics:**
 - Adobe Illustrator
-- Photoshop
 
 **Database Management:**
 - Firebase
@@ -98,3 +99,10 @@ Here are the tools and software I’ve worked with throughout my projects:
 
 **E-Commerce:**
 - WooCommerce
+
+**Additional Tools:**
+- **TSMaster**: Used for taking out traces and script writing for vehicle data decoding.
+- **TSMaster Guide PDF**: https://drive.google.com/file/d/1uHyL2BsP6b5XNpj4ie1oiwm29PcbYd8j/view?usp=sharing
+- **TSMaster Guide Video**: https://youtu.be/uT3ZftO2v6Y
+
+
