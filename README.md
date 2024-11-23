@@ -5,11 +5,11 @@ Welcome to my portfolio repository! Here, you will find a comprehensive overview
 ## Projects
 
 ### 1. **iFix: Automotive Diagnostic Android Application**
-A robust automotive diagnostic application available on the Google Play Store. iFix connects to vehicles via Bluetooth using an ELM327 scanner and supports ISO CAN (Controller Area Network) protocols, providing users with real-time insights and diagnostic capabilities.
+A robust automotive diagnostic application sold on Fiverr and available on the Google Play Store. iFix connects to vehicles via Bluetooth using an ELM327 scanner and supports ISO CAN (Controller Area Network) protocols, providing users with real-time insights and diagnostic capabilities.
 
 **Key Features:**
 - **Bluetooth Connectivity**: Connects seamlessly with cars using ELM327 scanners.
-- **ISO CAN Protocol Support**: Compatible with 11-bit 500 baud and 29-bit 500 baud protocols.
+- **ISO CAN (Controler Area Network) Protocol Support**: Compatible with 11-bit 500 baud and 29-bit 500 baud protocols.
 - **Diagnostics**: Reads and diagnoses trouble codes and freeze frame data.
 - **Real-Time Data**: Monitors vehicle performance with alerts.
 - **Custom Gauge**: Displays RPM in real-time using Android's native graphics libraries like Canvas Paint.
@@ -28,18 +28,18 @@ A robust automotive diagnostic application available on the Google Play Store. i
 
 ---
 
-### 2. **ProMasters Only: Diagnostic App for Dodge ProMaster Vans**
-A cross-platform automotive diagnostic application specifically designed for ProMaster vans, developed using Flutter for Android and iOS platforms.
+### 2. **ProMasters Only: Cross-Platform Diagnostic App for Dodge ProMaster Vans**
+A cross-platform automotive diagnostic application sold on Fiverr specifically designed for ProMaster Dodge vans, developed using Flutter for Android and iOS platforms.
 
 **Key Features:**
 - **Bluetooth Connectivity**: Compatible with ProMaster Dodge vans via ELM327 scanners.
-- **Protocol Support**: Supports ISO CAN protocols (11-bit 500 baud, 29-bit 500 baud).
+- **Protocol Support**: Supports ISO CAN (Controler Area Network) protocols (11-bit 500 baud, 29-bit 500 baud).
 - **Diagnostics**: Reads trouble codes and real-time performance data with alerts.
 - **Custom Gauges**: Displays RPM, Coolant Temperature, and other diagnostics using flutter_gauge library.
-- **Vendor-Specific Data**: Custom PIDs and data decoding tailored for ProMaster vans using TSMaster software.
+- **Vendor-Specific Data**: Custom PIDs and data decoding tailored for ProMaster Dodge vans using TSMaster software.
 
 **Technologies Used:**
-- **Languages**: Dart, Flutter
+- **Languages**: Dart, Flutter (Flutter version 3.10.5)
 - **Tools**: Android Studio, TSMaster software
 
 **Resources:**
@@ -51,7 +51,7 @@ A cross-platform automotive diagnostic application specifically designed for Pro
 ---
 
 ### 3. **FineTerryTowels: E-Commerce Website for Premium Towels**
-An elegant e-commerce platform for selling high-quality towels, designed with WordPress and WooCommerce.
+An elegant e-commerce platform for selling high-quality towels, designed with WordPress and WooCommerce. It is live now, providing customers with a seamless shopping experience.
 
 **Key Features:**
 - **Responsive Design**: Optimized for mobile, tablet, and desktop.
