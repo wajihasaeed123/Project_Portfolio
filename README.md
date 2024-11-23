@@ -1,6 +1,6 @@
 # My Project Portfolio
 
-Welcome to my portfolio repository! Here, you will find a comprehensive overview of the projects I have worked on, showcasing my skills in software development, mobile applications, and e-commerce platforms.
+Welcome to my portfolio repository! Here, you will find a comprehensive overview of the projects I have worked on, showcasing my skills in mobile applications, and e-commerce platforms.
 
 ## Projects
 
